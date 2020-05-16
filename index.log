@@ -1,2 +1,6 @@
 my first commit
+<<<<<<< HEAD
 merge with branch 
+=======
+my 2nd commit
+>>>>>>> test
